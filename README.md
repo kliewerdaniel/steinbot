@@ -1,5 +1,5 @@
 # SteinBot 🪨🤖 - Advanced AI Research Assistant for Document Analysis
-
+![stein](ss.png)
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" alt="Python 3.9+"/>
   <img src="https://img.shields.io/badge/React-Next.js-000000?style=for-the-badge&logo=react" alt="Next.js"/>
